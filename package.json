@@ -9,17 +9,13 @@
     "server": "json-server --watch db.json --port 8080"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/suraj826580/Mock_api.git"
+    "type": "git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/suraj826580/Mock_api/issues"
-  },
-  "homepage": "https://github.com/suraj826580/Mock_api#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "json-server": "^0.17.3"
   }
 }
