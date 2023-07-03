@@ -1,28 +1,36 @@
 {
-  "users": [
+  "registrations": [
     {
-      "id": 1,
-      "name": "Chandra",
-      "age": 25,
-      "place": "Visakhapatnam",
-      "batch_name": "WEB-21",
+      "id": 2,
+      "name": "Sanjeet Kumar",
+      "age": "27",
+      "place": "Bihar",
+      "batch": "WEB-15",
       "profession": "FSD"
     },
     {
-      "name": "Suraj Yadav",
-      "age": "100",
-      "place": "Aligarh",
-      "batch_name": "WEB-13",
-      "profession": "FSD",
-      "id": 2
+      "name": "sandeep kumar",
+      "age": "27",
+      "place": "Kolkata",
+      "batch": "WEB-15",
+      "profession": "Student",
+      "id": 4
     },
     {
-      "name": "Suraj",
-      "age": "20",
-      "place": "Aligarh",
-      "batch_name": "WEB-13",
-      "profession": "Backend",
-      "id": 3
+      "name": "Sanjet",
+      "age": "23",
+      "place": "Bihar",
+      "batch": "WEB-13",
+      "profession": "Frontend",
+      "id": 5
+    },
+    {
+      "name": "sanj",
+      "age": "21",
+      "place": "Bihar",
+      "batch": "WEB-14",
+      "profession": "Student",
+      "id": 6
     }
   ]
 }
